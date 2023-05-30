@@ -48,7 +48,7 @@ about:
     allowing you to convert from numerical data back into your original format.
   license: BUSL-1.1
   license_file: LICENSE
-  license_family: Othe
+  license_family: Other
   doc_url: https://docs.sdv.dev/rdt
   dev_url: https://github.com/sdv-dev/RDT 
 
