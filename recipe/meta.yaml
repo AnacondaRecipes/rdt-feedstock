@@ -20,7 +20,7 @@ requirements:
     - wheel
     - python
     - setuptools
-    - pytest-runner >=2.11.1
+    - pytest-runner 6.0.0
   run:
     - python
     - faker >=10
@@ -48,6 +48,7 @@ about:
     allowing you to convert from numerical data back into your original format.
   license: BUSL-1.1
   license_file: LICENSE
+  license_family: Othe
   doc_url: https://docs.sdv.dev/rdt
   dev_url: https://github.com/sdv-dev/RDT 
 
